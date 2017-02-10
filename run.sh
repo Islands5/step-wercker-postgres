@@ -43,5 +43,4 @@ test:
 EOF
 }
 
-main:
-
+main;
